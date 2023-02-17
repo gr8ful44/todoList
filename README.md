@@ -1,5 +1,5 @@
 # todoList
-Project To do List .<br>
+Project : to-do List.<br>
 
 1. มีการตกแต่ง Icon บน title ด้วย flaticon
 2. สร้าง hooks ขึ้นมาเพื่อใช้งาน
