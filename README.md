@@ -5,6 +5,7 @@ Project To do List .<br>
 2. สร้าง hooks ขึ้นมาเพื่อใช้งาน
 3. แอพ todolist สามารถ create/edit/remove ได้
 4. มีการ save ข้อมูลลง localStorage. 
+5. deploy project w/netlify (link project: https://tututodolist.netlify.app)
 
 <br><hr>
 To get a project up and running :
