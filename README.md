@@ -7,7 +7,7 @@ Project To do List .<br>
 4. มีการ save ข้อมูลลง localStorage. 
 5. deploy project w/netlify (link project: https://tututodolist.netlify.app)
 
-<br><hr>
+<hr>
 To get a project up and running :
 1. Download ZIP from this project.
 2. Open the unzipped folder in your code editor.
